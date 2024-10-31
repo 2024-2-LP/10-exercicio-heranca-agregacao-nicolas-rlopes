@@ -122,7 +122,7 @@ public class Consultoria {
             totalSalario += desenvolvedorAtual.calcularSalario();
         }
 
-        return totalSalario;.
+        return totalSalario;
     }
 
     public String getNome() {
